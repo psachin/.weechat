@@ -1,0 +1,27 @@
+* My [[https://weechat.org/][weechat]] config
+
+** Setup
+
+   - Install weechat
+
+	 #+BEGIN_SRC sh
+       sudo dnf install weechat
+	 #+END_SRC
+
+   - Clone this repository(backup existing =~/.weechat= directory/)
+
+	 #+BEGIN_SRC sh
+       git clone https://github.com/psachin/.weechat ~/.weechat
+	 #+END_SRC
+
+   - Run
+
+	 #+BEGIN_SRC sh
+       weechat
+	 #+END_SRC
+
+** Emacs support
+
+   - I use [[https://github.com/the-kenny/weechat.el][weechat.el]] by Moritz U.
+   - Refer [[https://github.com/psachin/.emacs.d/blob/config.org/ReadMe.org][github.com/psachin/ReadMe.org]] for instructions.
+	 - File: [[https://github.com/psachin/.emacs.d/blob/config.org/packages.org][packages.org]]
