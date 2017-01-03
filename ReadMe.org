@@ -23,5 +23,5 @@
 ** Emacs support
 
    - I use [[https://github.com/the-kenny/weechat.el][weechat.el]] by Moritz U.
-   - Refer [[https://github.com/psachin/.emacs.d/blob/config.org/ReadMe.org][github.com/psachin/ReadMe.org]] for instructions.
-	 - File: [[https://github.com/psachin/.emacs.d/blob/config.org/packages.org][packages.org]]
+   - Refer [[https://github.com/psachin/.emacs.d/blob/config.org/ReadMe.org][https://github.com/psachin/ReadMe.org]] for installation instructions
+   - Refer [[https://github.com/psachin/.emacs.d/blob/config.org/packages.org][packages.org]] for weechat configuration
